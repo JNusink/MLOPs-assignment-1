@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+.DS_Store
+.vscode/
+*.csv
+*.ipynb
+*.pdf
+*.txt
+*.zip
+sentiment_model.pkl.py
+MLops assignment 1.py
