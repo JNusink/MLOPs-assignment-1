@@ -21,4 +21,4 @@ pipeline = Pipeline([
 pipeline.fit(X, y)
 
 # Save the trained model
-joblib.dump(pipeline, 'sentiment_model.pkl')
+joblib.dump(pipeline, 'model.pkl')
